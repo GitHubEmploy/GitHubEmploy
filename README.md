@@ -6,8 +6,6 @@
 
 My name is Mohit Varikuti,
 
-I am an AI expert.
-
 I'm a AI Expert and Web Designer based in Dublin, CA specializing in building (and occasionally designing) exceptional websites, AI's, and everything in between.
 
 Here are my GitHub Stats:
