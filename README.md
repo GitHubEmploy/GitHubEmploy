@@ -4,9 +4,9 @@
 [comment]: <> (**GitHubEmploy/GitHubEmploy** is a ✨ _special_ ✨ repository because its `README.md` aka this file appears on your GitHub profile.)
 
 
-My name is Mohit Varikuti,
+Hi! Im Mohit, 
 
-I'm a AI Expert and Web Designer based in Dublin, CA specializing in building (and occasionally designing) exceptional websites, AI's, and everything in between.
+Currently a high school senior in california. I mainly work in machine learning, but some of my main hobbies include 3d printing, drones, servers/homelab, and building some cool IOT projects. Im also in a couple rocketry teams and robotics teams which im pretty fond of!
 
 Here are my GitHub Stats:
 
